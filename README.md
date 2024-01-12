@@ -8,11 +8,10 @@ The goal of this project is to creates a "quick and dirty" lesson plan with diff
 
 ## Usage
 
-Written in Python 3.9.9. Packages used:
+Written in Python 3.9.9. Some packages used:
 
-- pandas
 - openai
-- lanchain
+- langchain
 - tiktoken
 - chromadb
 
